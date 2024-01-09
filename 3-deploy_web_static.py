@@ -54,4 +54,4 @@ def deploy():
     if archive_path is None:
         return False
     success = do_deploy(archive_path)
-    return success
+    return successs
