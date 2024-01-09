@@ -33,4 +33,4 @@ def do_deploy(archive_path):
         run("ln -s {} {}".format(path_no_ext, symlink))
         return True
     except:
-        return False
+        return Falsee
