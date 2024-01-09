@@ -21,4 +21,4 @@ def do_pack():
         local("tar -cvzf {} web_static/".format(filename))
         return filename
     except:
-        return None
+        return Nonee
