@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+##!/usr/bin/env bash
 # Sets up webservers for deployment: (Run script on both servers)
 # If not done, does the following:
 #     installs Nginx; creates folders /data/, /data/web_static/,
